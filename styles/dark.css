@@ -73,10 +73,8 @@
     color: var(--header-color, #DB00FF);
 }
 
-.page{
+.page {
     background-image: url(../images/cover-image-dark.png);
-    /*background-color: rgba(241, 178, 206,  );
-    opacity: 0.6000000238418579;*/
 }
 
 .header-block-title {
@@ -88,13 +86,13 @@
 }
 
 .text_link:hover {
-    text-decoration: underline solid 1px var(--color-font, #fib2ce);
+    text-decoration: underline solid 1px var(--color-font, #F1B2CE);
     text-underline-offset: 5px;
 
 }
 
 .text_link:focus-visible {
-    border-block-end: 0 solid var(--color-font, #fib2ce);
+    border-block-end: 0 solid var(--color-font, #F1B2CE);
 }
 
 .footer__title {

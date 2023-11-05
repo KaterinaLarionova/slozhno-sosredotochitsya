@@ -183,7 +183,7 @@
 
 .text_link {
     text-decoration: none;
-    text-shadow: 2px 1px var(--accent-color, #FF0070);
+    text-shadow: 2px 1px #FF0070;
 }
 
 .text_link:hover {
